@@ -1,0 +1,76 @@
+{
+  "title": "HCPUR100: Healthy Adult human Brain Diffusion Template",
+  "description": "A diffusion fibre orientation template created from 100 unrelated subjects of the Human Connectome Project scanned at 3 Tesla",
+  "dates": [
+    {
+      "@type": "Date",
+      "date": "2018-01-01 00:00:00",
+      "type": {
+        "@type": "Annotation",
+        "value": "Start Date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "fullName": "Jason Kai",
+      "firstName": "Jason",
+      "middleName": "",
+      "lastName": "Kai",
+      "affiliations": 
+      [
+        {
+          "name": "Khan Computational Imaging Lab"
+        },
+	{
+	  "name": "Robarts Research Institute"
+	},
+	{
+	  "name": "Western University"
+	}
+      ]
+    },
+   {
+     "fullName": "Ali R. Khan",
+     "firstName": "Ali",
+     "middleName": "R.",
+     "lastName": "Khan",
+     "affiliations":
+     [
+       {
+         "name": "Khan Computational Imaging Lab"
+       },   
+       {
+         "name": "Robarts Research Institute"
+       },
+       {
+         "name": "Department of Medical Biophysics, Schulich School of Medicine and Dentistry"
+       },
+       {
+         "name": "The Brain and Mind Institute"
+       },
+       {
+         "name": "Western University"
+       }
+     ]
+   }
+  ],
+  "storedIn": {
+    "name": "Open Science Framework"
+  },
+  "types": [
+    {
+      "method": {
+        "value": "MRI"
+      }
+    }
+  ],
+  "version": "1.0.0",
+  "privacy": "Open Access",
+  "licenses": [
+    {
+      "@type": "License",
+      "name": "WU-Minn HCP Consortium Open Access Data Use Terms"
+    }
+  ]
+}
