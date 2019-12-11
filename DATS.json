@@ -72,5 +72,46 @@
       "@type": "License",
       "name": "WU-Minn HCP Consortium Open Access Data Use Terms"
     }
-  ]
+  ],
+  "distributions": [
+	        {
+			"formats": [
+				"NIfTI",
+				".mif"
+            		],
+			"size" : "1",
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://www.internationalgenome.org/"
+			}
+		}
+	],
+	"extraProperties": [
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "27"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "100"
+				}
+			]
+		}
+	]
 }
