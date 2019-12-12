@@ -15,7 +15,6 @@
     {
       "fullName": "Jason Kai",
       "firstName": "Jason",
-      "middleName": "",
       "lastName": "Kai",
       "affiliations": 
       [
@@ -33,7 +32,7 @@
    {
      "fullName": "Ali R. Khan",
      "firstName": "Ali",
-     "middleName": "R.",
+     "middleInitial": "R.",
      "lastName": "Khan",
      "affiliations":
      [
@@ -65,6 +64,23 @@
       }
     }
   ],
+  "keywords": [
+		{
+			"value" : "MRI"
+		},
+		{
+			"value" : "Human Connectome Project"
+		},
+		{
+			"value" : "healthy adult"
+		},
+		{
+			"value" : "human brain"
+		},
+		{
+			"value" : "diffusion template"
+		}
+  ],
   "version": "1.0.0",
   "privacy": "Open Access",
   "licenses": [
@@ -79,7 +95,7 @@
 				"NIfTI",
 				".mif"
             		],
-			"size" : "1",
+			"size" : 1,
 		        "unit" : {
             			"value": "GB"
 		        },
