@@ -114,6 +114,14 @@
 			]
 		},
 		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
 			"category": "subjects",
 			"values": [
 				{
