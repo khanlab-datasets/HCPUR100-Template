@@ -100,7 +100,8 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "https://github.com/khanlab-datasets/HCPUR100-Template"
+				"landingPage": "https://github.com/khanlab-datasets/HCPUR100-Template",
+				"annotation": "public"
 			}
 		}
 	],
