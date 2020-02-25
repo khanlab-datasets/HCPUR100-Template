@@ -93,7 +93,7 @@
 	        {
 			"formats": [
 				"NIfTI",
-				".mif"
+				".MIF"
             		],
 			"size" : 1,
 		        "unit" : {
