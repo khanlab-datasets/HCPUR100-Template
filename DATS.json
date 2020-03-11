@@ -15,7 +15,6 @@
     {
       "fullName": "Jason Kai",
       "firstName": "Jason",
-      "middleName": "",
       "lastName": "Kai",
       "affiliations": 
       [
@@ -33,7 +32,7 @@
    {
      "fullName": "Ali R. Khan",
      "firstName": "Ali",
-     "middleName": "R.",
+     "middleInitial": "R.",
      "lastName": "Khan",
      "affiliations":
      [
@@ -65,6 +64,23 @@
       }
     }
   ],
+  "keywords": [
+		{
+			"value" : "MRI"
+		},
+		{
+			"value" : "Human Connectome Project"
+		},
+		{
+			"value" : "healthy adult"
+		},
+		{
+			"value" : "human brain"
+		},
+		{
+			"value" : "diffusion template"
+		}
+  ],
   "version": "1.0.0",
   "privacy": "Open Access",
   "licenses": [
@@ -72,5 +88,67 @@
       "@type": "License",
       "name": "WU-Minn HCP Consortium Open Access Data Use Terms"
     }
-  ]
+  ],
+  "distributions": [
+	        {
+			"formats": [
+				"NIfTI",
+				".MIF"
+            		],
+			"size" : 1,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://github.com/khanlab-datasets/HCPUR100-Template",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+	"extraProperties": [
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "27"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "100"
+				}
+			]
+		},
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Ali R. Khan, Khan Computational Imaging Lab, Robarts Research Institute, University of Western Ontario  alik@robarts.ca"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
+		}
+	]
 }
