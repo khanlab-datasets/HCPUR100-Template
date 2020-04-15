@@ -34,6 +34,11 @@
      "firstName": "Ali",
      "middleInitial": "R.",
      "lastName": "Khan",
+     "roles": [
+		{
+			"value": "Principal Investigator"
+		}
+     ],
      "affiliations":
      [
        {
