@@ -1,2 +1,5 @@
+1557759186.065228576s sha256 +4247336e84d16bb95456041f5d9f4b185119c6db5d06bb1552d05a6192022b11
+1588192418.768426757s location +https://files.osf.io/v1/resources/azqcv/providers/osfstorage/5cd43efc054f5b00195aa30c name +sub-HCPUR100_t2w.nii.gz path +sub-HCPUR100/anat/sub-HCPUR100_t2w.nii.gz
+1588192419.084045385s location +https://files.osf.io/v1/resources/azqcv/providers/osfstorage/5cd43efcf8214b00168916d6 name +sub-HCPUR100_t1w.nii.gz path +sub-HCPUR100/anat/sub-HCPUR100_t1w.nii.gz sha256 +234cadf4c82f673f888da7cb191fcfa565da311e20bd1313d8991b0527686190
 1590101523.528863308s location +https://files.osf.io/v1/resources/azqcv/providers/osfstorage/5cd43efc054f5b00195aa30c name +sub-HCPUR100_t2w.nii.gz path +sub-HCPUR100/anat/sub-HCPUR100_t2w.nii.gz sha256 +234cadf4c82f673f888da7cb191fcfa565da311e20bd1313d8991b0527686190
 1590101524.471635815s location +https://files.osf.io/v1/resources/azqcv/providers/osfstorage/5cd43efcf8214b00168916d6 name +sub-HCPUR100_t1w.nii.gz path +sub-HCPUR100/anat/sub-HCPUR100_t1w.nii.gz sha256 +234cadf4c82f673f888da7cb191fcfa565da311e20bd1313d8991b0527686190
